@@ -9,10 +9,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
-<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
-<img align="left" alt="Jay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
-<img align="left" alt="Jay | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
-<i class="fab fa-codepen"></i>
+[<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<i class="fab fa-codepen"></i>][codepen]
 
 <br />
 
@@ -32,4 +31,4 @@
 
 [instagram]: https://www.instagram.com/jay_._32/
 [linkedin]: https://www.linkedin.com/in/jay-patel-77a6681bb/
-
+[codepen]: https://codepen.io/Jayitis
