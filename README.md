@@ -3,6 +3,7 @@
 
 
 - 🔭 I am a Frontend-Developer
+- 💻 Looking for a freelancing job
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
 - 🥅 2020 Goals: Contribute more to Open Source projects
