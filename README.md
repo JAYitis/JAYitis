@@ -25,8 +25,10 @@
 <br />
 <br />
 
+![](https://visitor-badge.laobi.icu/badge?page_id=JAYitis.JAYitis)
 
-
+<br />
+<br />
 
 [instagram]: https://www.instagram.com/jay_._32/
 [linkedin]: https://www.linkedin.com/in/jay-patel-77a6681bb/
