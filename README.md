@@ -11,14 +11,11 @@
 <!-- [<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Jay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen] -->
-<!-- ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
-![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=Codepen&logoColor=white) -->
+![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=Codepen&logoColor=white)
 
-<p>
-<a href="https://www.linkedin.com/in/jay-patel-77a6681bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/@AnujK2901-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://www.instagram.com/jay_._32/"><img alt="Instagram" src="https://img.shields.io/badge/@AnujK2901-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
- 
+
 
 <br />
 
