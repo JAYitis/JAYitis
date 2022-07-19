@@ -4,7 +4,7 @@
 
 - 🔭 I am a Frontend-Developer
 - 💻 Looking for a freelancing job
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
