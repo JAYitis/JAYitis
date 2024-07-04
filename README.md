@@ -3,9 +3,8 @@
 
 
 - 🔭 I am a Frontend-Developer
-- 💻 Looking for a freelancing job
-- 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 💻 Looking for a full-time job.
+- 🌱 I’m currently learning React
 
 ### Connect with me:
 <!-- [<img align="left" alt="Jay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
